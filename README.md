@@ -1,3 +1,5 @@
+### This is a forked repo from [Supreeth Herle Repo](https://github.com/herlesupreeth/docker_open5gs) all Credits goes to him for the Docker 5GC+IMS Solution, this serves only to test and wite the N5 QoS changes before sending PR to the main repo
+
 # docker_open5gs
 Quite contrary to the name of the repository, this repository contains docker files to deploy an Over-The-Air (OTA) or RF simulated 4G/5G network using following projects:
 - Core Network (4G/5G) - open5gs - https://github.com/open5gs/open5gs
