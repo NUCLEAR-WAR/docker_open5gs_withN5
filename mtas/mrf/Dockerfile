@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM debian:bullseye
+FROM debian:trixie
 # Install required packages
 RUN apt-get update \
     && apt-get upgrade -y \
